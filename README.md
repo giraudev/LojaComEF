@@ -1,5 +1,7 @@
-Criar uma estrutura de projeto para WebApi e cadastrar informações sobre produtos.\n
-	Teremos os seguintes Modelos:\n
-		- produto(idproduto,nome,descrica,preco,quantidade);\n
-		- cliente(idcliente,nome,email,idade);\n
-		- pedido(idpedido, idproduto, idcliente, quantidade).
+<p>Criar uma estrutura de projeto para WebApi e cadastrar informações sobre produtos.</p>
+	<p>Teremos os seguintes Modelos:</p>
+	<ol>
+	<li>	- produto(idproduto,nome,descrica,preco,quantidade);</li>
+		<li>cliente(idcliente,nome,email,idade);</li>
+		<li>pedido(idpedido, idproduto, idcliente, quantidade).</li>
+		</o>
